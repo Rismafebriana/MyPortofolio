@@ -1,0 +1,15 @@
+
+[
+    {
+        "id":1,
+        "interestname":"1. Graphic Design"
+    },
+    {
+        "id":2,
+        "interestname":"2. Interface / Web Design"
+    },
+    {
+        "id":3,
+        "interestname":"3. Web Development"
+    }
+]

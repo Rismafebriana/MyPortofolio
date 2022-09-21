@@ -1,0 +1,35 @@
+#about {
+  height: 100vh;
+}
+#about .aboutcontent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+  margin-top: 20vh;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+}
+@keyframes rotate {
+  25% {
+    transform: rotate(90deg);
+    transform: scale(0.7);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  75% {
+    transform: rotate(270deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 767px) {
+  #about {
+    padding: 0px 30px;
+  }
+}

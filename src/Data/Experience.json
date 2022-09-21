@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "year":"1 Feb, 2019 - 28 Feb, 2019",
+        "companyname":"KPP Penanaman Modal Asing 3",
+        "position":"Penagihan",
+        "desc":"Scanning dokumen, Pengarsipan, Foto copy"
+    },
+    {
+        "id":2,
+        "year":"27 Sep, 2020 - 28 Okt, 2020",
+        "companyname":"Shopee",
+        "position":"Admin Online",
+        "desc":"Penerimaan pesanan, Penyampaian informasi produk, Mengelola seputar promosi"
+     }
+
+]
