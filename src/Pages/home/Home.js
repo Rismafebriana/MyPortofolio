@@ -29,7 +29,7 @@ const Home = () => {
                   />
                 </a>
                 <a
-                  href="https://github.com/rsmafebriana"
+                  href="https://github.com/rismafebriana"
                   rel="noreferrer"
                 >
                   <img
